@@ -1,0 +1,1 @@
+The game is ready. It can be compiled and run.
